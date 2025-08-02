@@ -40,8 +40,12 @@ I built this project to explore how real-world websites like Amazon are structur
 
 
 
+https://github.com/user-attachments/assets/b297e7b4-2193-47c6-b80c-215107f5dcfa
 
-https://github.com/user-attachments/assets/d16182fc-36c0-4801-b042-e35c009d4303
+
+
+
+
 
 
 
